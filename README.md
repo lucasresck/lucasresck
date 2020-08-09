@@ -7,7 +7,7 @@ I'm an Applied Mathematics student who codes. This GitHub is used to store and v
 
 - 🔭 Working on an Automatic Playlist Recommender called [Espotifai](https://github.com/lucasresck/espotifai) 
 - 🌱 Secretly learning D3.js using private Observable notebooks
-- ⚡ Fun fact: Mathematics was discovered
+- ⚡ Fun fact: Mathematics was invented
 
 ### Tech
 
