@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Applied Mathematics undergraduate student who codes.
+I'm a BSc in Applied Mathematics who codes.
 
 Currently, I do research in the [Visual Data Science Lab research group](https://github.com/visual-ds). My main contribution occurs in the areas of Machine Learning, Data Science, and Natural Language Processing.
 
