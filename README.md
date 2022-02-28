@@ -6,6 +6,6 @@ Currently, I do research in the [Visual Data Science Lab research group](https:/
 
 This GitHub stores and versions codes for projects, assignments, exercises, and classes.
 
-[LinkedIn](https://www.linkedin.com/in/lucasresck/) | [Lattes](http://lattes.cnpq.br/6918672604813151) | [Hugging Face 🤗](https://huggingface.co/lucasresck)
+[LinkedIn](https://www.linkedin.com/in/lucasresck/) | [ORCID](https://orcid.org/0000-0001-9634-450X) | [Lattes](http://lattes.cnpq.br/6918672604813151) | [Hugging Face 🤗](https://huggingface.co/lucasresck)
 
 > May the --force be with you.
