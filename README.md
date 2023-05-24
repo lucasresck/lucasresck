@@ -6,6 +6,6 @@ Currently, I do research in the [Visual Data Science Lab research group](https:/
 
 This GitHub account stores and versions codes for projects, research, assignments, exercises, and classes.
 
-[Google Scholar](https://scholar.google.com/citations?user=ROLstoAAAAAJ) | [LinkedIn](https://www.linkedin.com/in/lucasresck/) | [ResearchGate](https://www.researchgate.net/profile/Lucas-Resck) | [ORCID](https://orcid.org/0000-0001-9634-450X) | [arXiv](https://arxiv.org/a/0000-0001-9634-450X) | [Lattes](http://lattes.cnpq.br/6918672604813151) | [Hugging Face 🤗](https://huggingface.co/lucasresck)
+[Home page](https://lucasresck.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=ROLstoAAAAAJ) | [LinkedIn](https://www.linkedin.com/in/lucasresck/) | [ResearchGate](https://www.researchgate.net/profile/Lucas-Resck) | [ORCID](https://orcid.org/0000-0001-9634-450X) | [arXiv](https://arxiv.org/a/0000-0001-9634-450X) | [Lattes](http://lattes.cnpq.br/6918672604813151) | [Hugging Face 🤗](https://huggingface.co/lucasresck)
 
 > May the --force be with you.
