@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm an MSc in Mathematical Modeling and a BSc in Applied Mathematics, both from [FGV EMAp](https://emap.fgv.br/en).
-
-Currently, I do research in the [Visual Data Science Lab research group](https://github.com/visual-ds). My main contribution occurs in the areas of Machine Learning, Natural Language Processing, and Explainable Artificial Intelligence.
+I am a first-year PhD student in Computation, Cognition and Language at the [Language Technology Lab](https://github.com/cambridgeltl) at the University of Cambridge.
 
 This GitHub account stores and versions codes for projects, research, assignments, exercises, and classes.
 
