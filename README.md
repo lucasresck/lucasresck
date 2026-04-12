@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a first-year PhD student in Computation, Cognition and Language at the [Language Technology Lab](https://github.com/cambridgeltl) at the University of Cambridge.
+I am a second-year PhD student in Computation, Cognition and Language at the [Language Technology Lab](https://github.com/cambridgeltl) at the University of Cambridge.
 
 This GitHub account stores and versions codes for projects, research, assignments, exercises, and classes.
 
